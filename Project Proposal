@@ -1,0 +1,34 @@
+Dear Professor Stevens, 
+
+Here is my final project proposal: 
+
+General subject matter: Music Downloads from Site and How Cost Influences the Users' Decisions 
+
+This web application will keep track of the music (genre, artist, version, year, type of music, instrument…) downloaded from various sites, as to determine what is the most popular type of music downloaded, querying the music, and how cost influences the users’ decisions. 
+
+Websites To choose from: 
+http://www.musicnotes.com
+http://www.scribd.com
+http://www.itunes.com
+http://www.amazon.com
+http://www.spotify.com
+http://www.youtube.com
+http://www.jamendo.com
+http://www.soundclick.com
+
+Interactions: 
+- users with music downloaded (including purchases) 
+- user history of downloads 
+- modification of music (last uploaded)
+- users and other users (shared files) 
+
+Database / Data: 
+- table of music (id, year, name, artist, genre, instrument, type…) 
+- table of users 
+- table of websites visited 
+- table of payments (credits card, debit cash, Veemo…) 
+- table of vendors / sellers for the music 
+Bonus: table that may be able to show all modularizations (major and minor keys) 
+
+Thank you,
+- Jason 
